@@ -1,4 +1,4 @@
-# työaikakirjanpito
+# worked hours
 
 |    day     | hours spent | what did i do                                 |
 | :--------: | :---------- | :-------------------------------------------- |
