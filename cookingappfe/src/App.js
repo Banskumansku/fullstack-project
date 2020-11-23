@@ -2,7 +2,7 @@ import './App.css';
 import Grid from './Components/Grid'
 
 
-function App() {
+const App = () => {
 
   //at the start call all recipes etc
 
